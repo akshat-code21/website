@@ -142,7 +142,7 @@ Thanks to the use of the **Web Standards**, Hono works on a lot of platforms.
 - Bun
 - Vercel
 - AWS Lambda
-- Lambda@Edge
+- Lambda#Edge
 - Others
 
 And by using [a Node.js adapter](https://github.com/honojs/node-server), Hono works on Node.js.
